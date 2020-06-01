@@ -50,7 +50,7 @@ GitHub下载地址：[安装包](https://github.com/ZTO-Express/zms/releases/dow
    > 例如连接msql客户端，通过原生命令导入 ${project.dir}:项目根目录
 
    ```she
-   > source ${project.dir}/sql/zmsdb.sql
+   > source ${project.dir}/distribution/sql/zmsdb.sql
    ```
 
 2. **修改ZMS启动配置**
